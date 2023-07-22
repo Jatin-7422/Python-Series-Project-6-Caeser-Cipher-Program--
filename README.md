@@ -16,7 +16,6 @@ To use the program:
 
 ## Usage
 - Firstly Type "encode" for Encryption and "decode" for decryption
-
 - Encryption: Enter your plaintext message and the shift_key (number of positions to shift).
 - Decryption: Enter the encrypted message and the same key used for encryption.
 
